@@ -1,5 +1,3 @@
-print('Hello world')
+import streamlit as st
 
-print('hello Valentin')
-
-print('hello Sofiya') 
+st.write ('Hello Sofiya and Valentin')
