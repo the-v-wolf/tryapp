@@ -9,3 +9,4 @@ st.write ('Hello Sofiya and Valentin')
 
 st.write (even_list)
 
+st.write (love)
